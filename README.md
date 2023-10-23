@@ -5,4 +5,6 @@ This repository contain modern &amp; intuitive UI designs that i am learning &am
 ## 01. Login Page
 ![screenshot-loginpage](https://github.com/sai-vatturi/Figma-UI-Designs/assets/115538210/7c02b639-9c76-4280-bb13-2d5f40041373)
 
-## 02.
+## 02. Courses Website
+![2 CardCheckout](https://github.com/sai-vatturi/Figma-UI-Designs/assets/115538210/1eaeaba9-944d-4a66-a27a-9e5c31373d98)
+
