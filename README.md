@@ -12,4 +12,5 @@ This repository contain modern &amp; intuitive UI designs that i am learning &am
 ![3  Landing Page](https://github.com/sai-vatturi/Figma-UI-Designs/assets/115538210/553196e5-271e-46e4-b502-af29664720f6)
 ## 03. Blog Website
 ![blogsite](https://github.com/sai-vatturi/Figma-UI-Designs/assets/115538210/f7acf013-6499-4c5a-af74-45b13a10219f)
+
 ![blogsite2](https://github.com/sai-vatturi/Figma-UI-Designs/assets/115538210/e2ff1877-ce7a-40bd-ac08-0b24af20108a)
