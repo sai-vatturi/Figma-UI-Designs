@@ -10,7 +10,9 @@ This repository contain modern &amp; intuitive UI designs that i am learning &am
 
 ## 03. Landing Page (University Student Page)
 ![3  Landing Page](https://github.com/sai-vatturi/Figma-UI-Designs/assets/115538210/553196e5-271e-46e4-b502-af29664720f6)
-## 03. Blog Website
+## 04. Blog Website
 ![blogsite](https://github.com/sai-vatturi/Figma-UI-Designs/assets/115538210/f7acf013-6499-4c5a-af74-45b13a10219f)
 
 ![blogsite2](https://github.com/sai-vatturi/Figma-UI-Designs/assets/115538210/e2ff1877-ce7a-40bd-ac08-0b24af20108a)
+## 04. Blog Website
+![05 Electricity Bill Predictor](https://github.com/sai-vatturi/Figma-UI-Designs/assets/115538210/4676ad41-65c3-41c2-b58d-bf78f41cb797)
