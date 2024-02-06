@@ -15,5 +15,5 @@ This repository contain modern &amp; intuitive UI designs that i am learning &am
 
 ![blogsite2](https://github.com/sai-vatturi/Figma-UI-Designs/assets/115538210/e2ff1877-ce7a-40bd-ac08-0b24af20108a)
 ## 04. Blog Website
-<img width="955" alt="image" src="https://github.com/sai-vatturi/Figma-UI-Designs/assets/115538210/c79dcee1-56ca-4431-81fa-186762533b79">
+
 ![MacBook Pro - 1](https://github.com/sai-vatturi/Figma-UI-Designs/assets/115538210/ae8bfae6-0b08-433c-8bc9-a52c1744d90c)
