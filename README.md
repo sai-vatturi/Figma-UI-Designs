@@ -15,4 +15,5 @@ This repository contain modern &amp; intuitive UI designs that i am learning &am
 
 ![blogsite2](https://github.com/sai-vatturi/Figma-UI-Designs/assets/115538210/e2ff1877-ce7a-40bd-ac08-0b24af20108a)
 ## 04. Blog Website
-![05 Electricity Bill Predictor](https://github.com/sai-vatturi/Figma-UI-Designs/assets/115538210/4676ad41-65c3-41c2-b58d-bf78f41cb797)
+
+<img width="805" alt="image" src="https://github.com/sai-vatturi/Figma-UI-Designs/assets/115538210/59fb19b4-0732-4024-8696-57822532614a">
