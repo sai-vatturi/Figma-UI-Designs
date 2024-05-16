@@ -18,3 +18,4 @@ This repository contain modern &amp; intuitive UI designs that i am learning &am
 
 <img width="805" alt="image" src="https://github.com/sai-vatturi/Figma-UI-Designs/assets/115538210/59fb19b4-0732-4024-8696-57822532614a">
 
+## 06. Campus Collab
